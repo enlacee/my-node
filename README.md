@@ -23,6 +23,10 @@ started server with this command in shell 'this generate a listener for listen t
 
     https://gist.github.com/creationix/707146
 
+### Resource
+
+    create chat jquery,nodejs, socket.io github : www.nolithius.com
+
 
 
 
