@@ -26,4 +26,4 @@ http.createServer(function(request, response) {
 }).listen(8000);
 
 // Output a String
-console.log("Random Number Generator Running...");
+console.log("SERVER : Random Number Generator Running...");
