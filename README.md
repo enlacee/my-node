@@ -24,7 +24,7 @@ started server with this command in shell 'this generate a listener for listen t
     https://gist.github.com/creationix/707146
 
 ### Resource
-
+    socket.io basic : http://www.nodehispano.com/2012/09/introduccion-a-socket-io-nodejs/
     create chat jquery,nodejs, socket.io github : www.nolithius.com
 
 
